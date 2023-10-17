@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
-__author__ = 'NicolasParentOnBranchNicolasSomeConflict'
+__author__ = 'NicolasParentOnBranchNicolas'
 
 "Hello World !"
-
-"New changes"
 
 import pandas as pd
 import numpy as np
