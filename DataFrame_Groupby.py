@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 __author__ = 'BenBouissOnBranchNicolasButHeHasModifiedMaster'
 
+"Hello World !"
+
 import pandas as pd
 import numpy as np
 
