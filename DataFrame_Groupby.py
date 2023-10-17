@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'NicolasParentOnBranchNicolasPlusSomeConflict'
+__author__ = 'NicolasParentOnBranchNicolasPlusNothing'
 
 "Hello World !"
 
