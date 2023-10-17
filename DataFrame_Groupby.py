@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
+<<<<<<< HEAD
 __author__ = 'BenBouissOnBranchNicolasButHeHasModifiedMasterButNicolasHasNotPushedOnNicolas'
+=======
+__author__ = 'BenBouissOnBranchNicolasButHeHasModifiedMaster'
+>>>>>>> 2452a5903134964df09ba5307f991f3884e2300a
 
 "Hello World !"
 
