@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-<<<<<<< HEAD
-__author__ = 'BenBouiss'
-=======
-__author__ = 'BenBouissDoesNotSuckBenBenBeneBenBenBenBenBenBenBeNbeNbNebenennebbenBen'
->>>>>>> 9bc371533f0d21f3207ac3b8f3cd7fb7845d2623
+__author__ = 'BenBouissOnBranchNicolas'
 
 import pandas as pd
 import numpy as np
