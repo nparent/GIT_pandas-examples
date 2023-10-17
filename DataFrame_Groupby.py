@@ -1,9 +1,13 @@
 # -*- coding: utf-8 -*-
+<<<<<<< HEAD
 __author__ = 'NicolasParentOnBranchNicolasSomeConflict'
 
 "Hello World !"
 
 "New changes"
+=======
+__author__ = 'BenBouissOnBranchNicolasButHeHasModifiedMaster'
+>>>>>>> 6668c65 (Hello)
 
 import pandas as pd
 import numpy as np
