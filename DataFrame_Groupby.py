@@ -9,6 +9,8 @@ __author__ = 'NicolasParentOnBranchNicolasSomeConflict'
 __author__ = 'BenBouissOnBranchNicolasButHeHasModifiedMaster'
 >>>>>>> 6668c65 (Hello)
 
+"Hello World !"
+
 import pandas as pd
 import numpy as np
 
