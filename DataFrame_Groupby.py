@@ -3,7 +3,11 @@ __author__ = 'NicolasParentOnBranchNicolasPlusSomeConflict'
 
 "Hello World !"
 
+<<<<<<< HEAD
 "New changes"
+=======
+"Newly Added"
+>>>>>>> b616b92 (new change bis)
 
 import pandas as pd
 import numpy as np
