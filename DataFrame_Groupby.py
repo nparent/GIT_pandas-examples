@@ -5,8 +5,6 @@ __author__ = 'NicolasParentOnBranchNicolasSomeConflict'
 
 "New changes"
 
-"Hello World !"
-
 import pandas as pd
 import numpy as np
 
