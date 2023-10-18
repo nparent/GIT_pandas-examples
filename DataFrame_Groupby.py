@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'NicolasParentOnBranchNicolasPlusNothing'
+__author__ = 'newConflictForPullRequest'
 "Hello World !"
 
 import pandas as pd
