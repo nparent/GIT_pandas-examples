@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'newConflictForPullRequest'
-"Hello World !"
+__author__ = 'HereAConflict'
 
 import pandas as pd
 import numpy as np
