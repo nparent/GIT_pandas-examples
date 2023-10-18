@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'HereAConflict'
+__author__ = 'MasterNoConflict'
 
 import pandas as pd
 import numpy as np
