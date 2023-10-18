@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+<<<<<<< HEAD
 __author__ = 'NicolasParentOnBranchNicolasPlusNothing'
 
 "Hello World !"
@@ -8,6 +9,11 @@ __author__ = 'NicolasParentOnBranchNicolasPlusNothing'
 =======
 "Newly Added"
 >>>>>>> b616b92 (new change bis)
+=======
+__author__ = 'NicolasParentOnBranchNicolas'
+
+"Hello World !"
+>>>>>>> 0ff6139f6c641db6867c8429ccdd6c40366cc02b
 
 import pandas as pd
 import numpy as np
